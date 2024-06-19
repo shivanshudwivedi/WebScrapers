@@ -1,0 +1,20 @@
+The appliances to be scraped:
+
+1. Computers, Tablets & Network Hardware
+2. Cameras & Photo
+3. Cel Phones & Smartphones
+4. Phone Cases, Covers & Skins
+5. TV, Video & Home Audio
+6. Video Games & Consoles
+7. Vehicle Electronics
+8. Headphones
+9. Surveillance & Smart Home Devices
+10. eBay Refurbished - Up to 70 % off tech and more
+
+Things to be scraped:
+
+1. Title
+2. ImageURL 
+3. Price 
+4. ItemURL
+5. Description (if any)
